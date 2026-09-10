@@ -22,7 +22,7 @@ exports.render = function (league) {
 
       const emptyNameCount = maxPlayersInRow - players.length;
       const emptyNames = Array(emptyNameCount).fill(emptyName);
-
+        inaefbwejfvwe
       const allNames = formattedNames.concat(emptyNames);
 
       return (
